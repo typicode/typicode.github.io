@@ -4,6 +4,7 @@
     "start": "serve"
   },
   "devDependencies": {
+    "prettier": "^1.17.1",
     "serve": "^10.0.0"
   }
 }
